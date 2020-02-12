@@ -1,0 +1,67 @@
+{
+    "tuotteet": [
+        {
+            "tuoteID":"1001",
+            "tuoteNimi":"Nappi1",
+            "ostoHinta":"2.00",
+            "myyntiHinta":"2.20",
+            "toimittaja":"AAA Oy",
+            "linkki":"www.aaa.fi"
+        },
+        {
+            "tuoteID":"1002",
+            "tuoteNimi":"Nappi2",
+            "ostoHinta":"3.00",
+            "myyntiHinta":"3.25",
+            "toimittaja":"AAA Oy",
+            "linkki":"www.aaa.fi"
+        },
+        {
+            "tuoteID":"1003",
+            "tuoteNimi":"Nappi3",
+            "ostoHinta":"4.00",
+            "myyntiHinta":"4.30",
+            "toimittaja":"BBB Oy",
+            "linkki":"www.bbb.fi"
+        },
+        {
+            "tuoteID":"1004",
+            "tuoteNimi":"Nappi4",
+            "ostoHinta":"5.00",
+            "myyntiHinta":"5.40",
+            "toimittaja":"BBB Oy",
+            "linkki":"www.bbb.fi"
+        },
+        {
+            "tuoteID":"1005",
+            "tuoteNimi":"Nappi5",
+            "ostoHinta":"6.00",
+            "myyntiHinta":"6.50",
+            "toimittaja":"CCC Oy",
+            "linkki":"www.ccc.fi"},
+        {
+            "tuoteID":"1006",
+            "tuoteNimi":"Nappi6",
+            "ostoHinta":"7.00",
+            "myyntiHinta":"7.60",
+            "toimittaja":"CCC Oy",
+            "linkki":"www.ccc.fi"
+        },
+        {
+            "tuoteID":"1007",
+            "tuoteNimi":"Nappi7",
+            "ostoHinta":"8.00",
+            "myyntiHinta":"8.70",
+            "toimittaja":"CCC Oy",
+            "linkki":"www.ccc.fi"
+        },
+        {
+            "tuoteID":"1008",
+            "tuoteNimi":"Nappi8",
+            "ostoHinta":"9.00",
+            "myyntiHinta":"9.80",
+            "toimittaja":"DDD Oy",
+            "linkki":"www.ddd.fi"
+        }
+    ]
+}

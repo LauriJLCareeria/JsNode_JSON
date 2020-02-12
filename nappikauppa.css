@@ -1,0 +1,87 @@
+*
+.body {
+  font-family: sans-serif;
+}
+  
+/*Header*/
+.header {
+  background-color: lemonchiffon;
+  padding: 10px;
+  width: 1300px;
+  height: 100px;
+  text-align: center;
+  font-size: 24px;
+  font-family: sans-serif;
+  color: brown;
+  border: black;
+  border-radius: 20px;
+}
+  
+/* Side */
+.side {
+  float: left;
+  border: black;
+  border-radius: 20px;
+  width: 250px;
+  height: 550px;
+  background: lightgreen;
+  padding: 10px;
+  font-family: sans-serif;
+}
+  
+/* Menu style */
+.side ul {
+  list-style-type: none;
+  padding: 0;
+}
+  
+/* Main */
+.main {
+  float: left;
+  padding: 20px;
+  width: 1030px;
+  height: 550px;
+  background-color: antiquewhite;
+  padding: 10px;
+  border: black;
+  border-radius: 20px;
+  font-family: sans-serif;
+}
+  
+/* Table */
+#tuotteet{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-align: left;
+  border-collapse: collapse;
+  width: 100%;
+  border-radius: 20px;
+}
+
+#tuotteet td, #customers th {
+  border: 1px black;
+  padding: 10px;
+}
+
+#tuotteet th {
+  padding: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: lightgreen;
+  color: black;
+}
+
+#tuotteet tr:nth-child(even){background-color: #f2f2f2;}
+
+#tuotteet tr:hover {background-color: #ddd;}
+
+.btn {
+  font: sans-serif;
+  font-size: 14px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.btn:hover {
+  background-color: lightgray;
+}
